@@ -11,6 +11,9 @@
 <img src="https://img.shields.io/badge/SPECIALIZATION-IoT%20%26%20WSN-E8A0BE?style=for-the-badge&logo=wireless&logoColor=FFFFFF"/>
 
 </div>
+
+---
+
 ## `01` — About
 
 I'm an **Electronics & Communication Engineering undergraduate** with a strong focus on **Java, Data Structures & Algorithms, and software development**.
