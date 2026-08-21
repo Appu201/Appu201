@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080812,40:2A1822,70:F3A6C8,100:111827&height=220&section=header&text=APARAJITHAA%20THIRUMAKKULAM&fontSize=40&fontColor=FFF7FA&fontAlignY=34&desc=ECE%20UNDERGRADUATE%20%7C%20JAVA%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FBCFE8&center=true&vCenter=true&width=850&lines=Java+%7C+Data+Structures+%26+Algorithms;Backend+%26+Full+Stack+Development;Building+Practical+Software+Solutions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FBCFE8&center=true&vCenter=true&width=850&lines=Java+%7C+Data+Structures+%26+Algorithms;Full+Stack+Development;Building+Practical+Software+Solutions" alt="Typing SVG"/>
 
 <br/>
 
