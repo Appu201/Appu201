@@ -16,19 +16,6 @@
 
 <img src="https://img.shields.io/badge/IoT%20%26%20Wireless%20Networks-E8A0BE?style=for-the-badge&logo=wireless&logoColor=FFFFFF"/>
 
-<br/><br/>
-
-<a href="https://github.com/Appu201">
-<img src="https://img.shields.io/badge/GITHUB-Appu201-2A2227?style=for-the-badge&logo=github&logoColor=FBCFE8"/>
-</a>
-
-<a href="https://leetcode.com/u/Aparajithaa_TS/">
-<img src="https://img.shields.io/badge/LEETCODE-Aparajithaa%5FTS-3A2932?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aparajithaa-thirumakkulam-36a62328b/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-D88EAF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
 
 </div>
 
