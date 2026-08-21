@@ -16,7 +16,6 @@
 
 </div>
 
-
 ## `01` — About
 
 I'm an **Electronics & Communication Engineering undergraduate** with a strong focus on **Java, Data Structures & Algorithms, and software development**.
