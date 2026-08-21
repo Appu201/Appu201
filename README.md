@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FBCFE8&center=true&vCenter=true&width=900&lines=Java+Developer;Data+Structures+%26+Algorithms;Software+Development+%7C+Problem+Solving;Building+Practical+Solutions+with+Java;Currently+Learning+Spring+Boot+%26+JavaScript" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FBCFE8&center=true&vCenter=true&width=850&lines=Java+Developer;Data+Structures+%26+Algorithms;Software+Development+%7C+Problem+Solving;IoT+%26+Wireless+Sensor+Networks;Building+Practical+Solutions+with+Java;Currently+Learning+Spring+Boot+%26+JavaScript" alt="Typing SVG"/>
 
 <br/><br/>
 
