@@ -1,5 +1,3 @@
-# APARAJITHAA THIRUMAKKULAM
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080812,40:2A1822,70:F3A6C8,100:111827&height=220&section=header&text=APARAJITHAA%20THIRUMAKKULAM&fontSize=40&fontColor=FFF7FA&fontAlignY=34&desc=ECE%20UNDERGRADUATE%20%7C%20JAVA%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
