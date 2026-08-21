@@ -272,7 +272,7 @@ Gained practical experience in **IoT and embedded systems**, working with hardwa
 
 </a>
 
-<a href="https://www.linkedin.com/in/aparajithaathirumakkulam-36a62328b/">
+<a href="https://www.linkedin.com/in/aparajithaa-thirumakkulam-36a62328b/">
 
 <img src="https://img.shields.io/badge/LINKEDIN-Aparajithaa%20Thirumakkulam-F3A6C8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 
