@@ -4,15 +4,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FBCFE8&center=true&vCenter=true&width=850&lines=Electronics+%26+Communication+Engineering+Undergraduate;Java+Developer+%7C+Data+Structures+%26+Algorithms;Software+Development+%7C+Problem+Solving;Specialization%3A+IoT+%26+Wireless+Sensor+Networks;CGPA%3A+8.32+%7C+ECE+Undergraduate;Currently+Learning+Spring+Boot+%26+JavaScript" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FBCFE8&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Undergraduate;Java+Developer+%7C+Data+Structures+%26+Algorithms;Software+Development+%7C+Problem+Solving;IoT+%26+Wireless+Sensor+Networks;CGPA%3A+8.32;Currently+Learning+Spring+Boot+%26+JavaScript" alt="Typing SVG"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/ECE%20UNDERGRADUATE-2023--2027-F3A6C8?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/CGPA-8.32-F9B8D2?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SPECIALIZATION-IoT%20%26%20WSN-F9B8D2?style=for-the-badge&logo=wireless&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/SPECIALIZATION-IoT%20%26%20WSN-E8A0BE?style=for-the-badge&logo=wireless&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CGPA-8.32-E9A3C1?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF"/>
 
 </div>
 
